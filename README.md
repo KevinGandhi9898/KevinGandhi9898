@@ -1,3 +1,4 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&width=600&lines=Welcome+To+Kevin's+GitHub+Profile!)](https://git.io/typing-svg)
 <h1 align="center">Hi 👋, I'm Kevin Gandhi</h1>
 <h3 align="center">CSE Student , VIT Chennai</h3>
 
@@ -51,7 +52,9 @@
    <br><br><br> 
 <img src=https://img.shields.io/badge/-CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white " alt="CodeChef" >
 <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VSCode" >
-   </p>
+   </p><br> 
+<h3> 📈 GitHub Stats</h3>
+                                                                                                                             
 <table>
 <tr>
 <td><p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kevingandhi9898&theme=radical&show_icons=true&locale=en" alt="kevingandhi9898"/></p></td>
